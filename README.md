@@ -1,14 +1,18 @@
 <!-- GitHub Profile README -->
 
-<div style="position: absolute; top: -9999px; left: -9999px;">
-  AbdulrahmanAhmed20072/README.md
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=86c26b&height=200&section=header&text=Abdulrahman%20Ahmed&fontSize=40&fontAlign=50&fontColor=ffffff" />
+</p>
+
+<div align="center" style="margin-top: -30px; margin-bottom: -30px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=86c26b&center=true&width=500&vCenter=true&repeat=false&lines=NLP+%26+Machine+Learning+Engineer" alt="Typing Animation" />
 </div>
 
-<h1 align="center">👋 Hello, I'm Abdulrahman Ahmed</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=86c26b&center=true&width=500&vCenter=true&repeat=true&lines=NLP+%26+Machine+Learning+Engineer;LLMs+%7C+Deep+Learning" alt="Typing Animation" />
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=86c26b&center=true&width=500&vCenter=true&repeat=false&lines=LLMs+%7C+Deep+Learning;" alt="Typing Animation" />
+</div>
+
 
 <div align="center">
   <a href="https://linkedin.com/in/abdulrahman-ahmed-82091a244/"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/></a>
