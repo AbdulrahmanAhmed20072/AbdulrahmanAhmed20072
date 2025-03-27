@@ -96,4 +96,13 @@
 > **Tech Stack:** `Hugging Face Transformers` • `T5` • `LoRA` • `BnB` • `BLEU Score`
 
 - 📊 Evaluated performance using **BLEU** scores  
-- ⚙️ Applied **LoRA** and **BitsAndBytes (BnB)** for efficient fine-tuning and memory optimization  
+- ⚙️ Applied **LoRA** and **BitsAndBytes (BnB)** for efficient fine-tuning and memory optimization
+
+---
+
+### 🔷 AI-Powered Procurement Assistant  
+> **Tech Stack:** `CrewAI` • `Cohere` • `Tavily` • `ScrapeGraph` • `AgenOps` • `Pydantic`  
+
+- 🤖 Multi-agent system for **automated product research** and procurement  
+- 🔍 Web scraping and search integration for **real-time price/spec comparison**  
+- 📝 Automated **HTML report generation** with Bootstrap styling 
