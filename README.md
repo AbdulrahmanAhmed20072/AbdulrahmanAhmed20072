@@ -5,12 +5,12 @@
 </p>
 
 <div align="center" style="margin-top: -30px; margin-bottom: -30px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=86c26b&center=true&width=500&vCenter=true&repeat=false&lines=NLP+%26+Machine+Learning+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=86c26b&center=true&width=500&vCenter=true&repeat=true&lines=NLP+%26+Machine+Learning+Engineer" alt="Typing Animation" />
 </div>
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=86c26b&center=true&width=500&vCenter=true&repeat=false&lines=LLMs+%7C+Deep+Learning;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=86c26b&center=true&width=500&vCenter=true&repeat=true&lines=LLMs+%7C+Deep+Learning;" alt="Typing Animation" />
 </div>
 
 
