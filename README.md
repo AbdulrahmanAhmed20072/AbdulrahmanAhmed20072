@@ -3,14 +3,15 @@
 <h1 align="center">👋 Hello, I'm Abdulrahman Ahmed</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=2a81d1&center=true&width=500&vCenter=true&repeat=false&lines=NLP+%26+Machine+Learning+Engineer;LLMs+%7C+Deep+Learning" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=86c26b&center=true&width=500&vCenter=true&repeat=true&lines=NLP+%26+Machine+Learning+Engineer;LLMs+%7C+Deep+Learning" alt="Typing Animation" />
 </h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/abdulrahman-ahmed-82091a244/"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/></a>
   <a href="https://github.com/AbdulrahmanAhmed20072"><img src="https://img.icons8.com/fluency/48/github.png" width="40"/></a>
-  <a href="mailto:abdulrahman.ahmed20072@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" width="40"/></a>
-  <a href="tel:+201143501283"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40"/></a>
+  <a href="mailto:abdulrahman.ahmed20072@gmail.com"><img src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" width="40"/></a>
+  <a href="https://youtube.com/@abdulrahman.ahmed1?si=eeqAgr7NqlCKTVh2"><img src="https://img.icons8.com/?size=100&id=qLVB1tIe9Ts9&format=png&color=000000" width="40"/></a>
+  <a href="https://wa.me/qr/X2G6NMEMSJ5IA1"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40"/></a>
 </div>
 
 ---
@@ -18,10 +19,8 @@
 ## 📌 About Me
 
 - 🎓 **Computer Engineering graduate** from AIET (2022)  
-- 🤖 **Machine Learning Engineer & NLP Developer** with real-world project experience  
-- 🔭 Skilled in **Transformers, Fine-Tuning, and RAG systems** using Hugging Face and FastAPI  
-- 🛠️ Focused on delivering **AI-powered solutions**, from freelance gigs to scalable research-grade projects  
-
+- 🤖 **NLP & Machine Learning Engineer** with real-world project experience  
+- 🔭 Skilled in Transformers, Fine-Tuning, and RAG systems, using both local and remote LLMs with FastAPI
 ---
 ## 🛠️ Core Technologies
 
@@ -75,27 +74,18 @@
 
 ## 🚀 Notable Projects
 
-### 🔷 RAG-based Question Answering System
+### 🔷 RAG-based Question Answering System  
+> **Tech Stack:** `FastAPI` • `OpenAI` • `Cohere` • `Hugging Face` • `Ollama` • `MongoDB` • `Qdrant` • `Docker`
 
-- FastAPI-powered backend supporting **OpenAI**, **Cohere**, and **Hugging Face** LLMs  
-- Used **MongoDB** for document storage and **Qdrant** for semantic search  
-- Multi-language support (Arabic & English), modular architecture, and Docker deployment
-
-### 🔷 Fine-Tuning T5 for English-French Translation
-
-- Fine-tuned pretrained T5 model using Hugging Face Transformers  
-- Evaluated BLEU scores and optimized for multi-GPU training  
-- Packaged and deployed as a FastAPI service
+- ⚙️ Modular backend supporting multiple LLM providers  
+- 🧠 Semantic search powered by **Qdrant**, document storage in **MongoDB**  
+- 🌍 Multi-language support: **Arabic** and **English**  
+- 📦 used **Docker** for scalability and portability  
 
 ---
 
-## 📫 Connect With Me
+### 🔷 Fine-Tuning T5 for English–French Translation  
+> **Tech Stack:** `Hugging Face Transformers` • `T5` • `LoRA` • `BnB` • `BLEU Score`
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 💼 [Portfolio](https://your-portfolio.com)  
-- 📬 Email: your@email.com  
-
----
-
-<!-- Badge link anchor -->
-[tech-tools]: #
+- 📊 Evaluated performance using **BLEU** scores  
+- ⚙️ Applied **LoRA** and **BitsAndBytes (BnB)** for efficient fine-tuning and memory optimization  
