@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=86c26b&height=200&section=header&text=Abdulrahman%20Ahmed&fontSize=40&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=86c26b&height=200&section=header&text=Abdulrahman%20Ahmed&fontSize=50&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <div align="center" style="margin-top: -30px; margin-bottom: -30px;">
@@ -33,9 +33,9 @@
 - 📄 [View my CV](https://drive.google.com/file/d/1ICVvujklx4ppJ16LZAPdrzYXLWsV-RzW/view?usp=drive_link)
 ---
 
-## 🛠️ Core Technologies
+## 🛠️ Technical Stack
 
-### 💻 Core
+### 📚 Fundamentals
 
 [<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="25" />]()
 [<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25" />]()
