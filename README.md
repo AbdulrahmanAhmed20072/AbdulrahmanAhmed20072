@@ -17,6 +17,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/abdulrahman-ahmed-82091a244/"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/></a>
   <a href="https://github.com/AbdulrahmanAhmed20072"><img src="https://img.icons8.com/fluency/48/github.png" width="40"/></a>
+  <a href="https://huggingface.co/AbdulrahmanAhmed"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/></a>
   <a href="mailto:abdulrahman.ahmed20072@gmail.com"><img src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" width="40"/></a>
   <a href="https://youtube.com/@abdulrahman.ahmed1?si=eeqAgr7NqlCKTVh2"><img src="https://img.icons8.com/?size=100&id=qLVB1tIe9Ts9&format=png&color=000000" width="40"/></a>
   <a href="https://wa.me/qr/X2G6NMEMSJ5IA1"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40"/></a>
@@ -29,7 +30,9 @@
 - 🎓 **Computer Engineering graduate** from AIET (2022)  
 - 🤖 **NLP & Machine Learning Engineer** with real-world project experience  
 - 🔭 Skilled in Transformers, Fine-Tuning, and RAG systems, using both local and remote LLMs with FastAPI
+- 📄 [View my CV](https://drive.google.com/file/d/1ICVvujklx4ppJ16LZAPdrzYXLWsV-RzW/view?usp=drive_link)
 ---
+
 ## 🛠️ Core Technologies
 
 ### 💻 Core
